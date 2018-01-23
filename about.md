@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! i'm amar, this site was intended to show computer projects that I work on. I also write about mechanical projects on,
+[specterByte](https://specterbyte.com)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Find me on [twitter](https://twitter.com/heyitsamar)
