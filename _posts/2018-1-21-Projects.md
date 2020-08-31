@@ -5,9 +5,7 @@ title: Projects!
 
 
 * Ongoing Projects
-  * [Engineering Logs](https://amarjandu.github.io/engineeringLogs/chem/platingMetals)
+  * [landscape](https://github.com/amarjandu/landscape)
 
 
-* Completed Projects
-  * [Homey](https://github.com/amarjandu/SFSU-Homey)
 
